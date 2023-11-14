@@ -4,7 +4,7 @@ This Python script enables hands-free interaction with a notepad application and
 
 ## Usage
 ### Virtual Environment (venv) Setup:
-Activate the virtual environment:
+Activate the virtual environment: `python -m venv .`
 On Windows: `venv\Scripts\activate`
 On macOS/Linux: `source venv/bin/activate`
 

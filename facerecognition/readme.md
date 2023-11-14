@@ -4,7 +4,7 @@ This Python script uses facial landmarks to detect signs of driver fatigue, focu
 
 ## Usage
 ### Virtual Environment (venv) Setup:
-Activate the virtual environment:
+Activate the virtual environment: `python -m venv .`
 On Windows: `venv\Scripts\activate`
 On macOS/Linux: `source venv/bin/activate`
 
@@ -36,9 +36,6 @@ Run the Python script: `python facerecognition.py`
 Certain finger gestures exit the drawing mode or close the notepad.
 Press the `Esc` key to terminate the script.
 ---
-
-### Save Output:
-The script saves the drawing as `canvas.png` and typed text in `text.txt`.
 
 ### Deactivate Virtual Environment:
 Deactivate the virtual environment: `deactivate`
